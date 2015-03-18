@@ -83,10 +83,6 @@
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" name="inputPassword" class="form-control" placeholder="Password">
-                        </div>
-                            </label>
-                            <a href="#">Forget Password?</a>
-                        </div>
                         <button type="submit" name="submit" class="btn btn-default">Submit</button>
                     </form>
                 </div>

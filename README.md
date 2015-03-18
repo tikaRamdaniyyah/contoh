@@ -84,9 +84,6 @@
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" name="inputPassword" class="form-control" placeholder="Password">
                         </div>
-                        <div class="checkbox">
-                            <label>
-                                <input type="checkbox"> Remember Me!
                             </label>
                             <a href="#">Forget Password?</a>
                         </div>
